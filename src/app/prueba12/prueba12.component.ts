@@ -14,7 +14,7 @@ export class Prueba12Component implements OnInit {
 
     {
     id: "01",
-    nombre: "Monalisa",
+    nombre: "lllaa",
     autor: "Leonardo da Vinci",
     descripcion: "La Gioconda o Mona Lisa es uno de los retratos más emblemáticos de la historia de la pintura",
     imagen: "/assets/img/descarga.jpg",
@@ -63,7 +63,7 @@ export class Prueba12Component implements OnInit {
        imagen: "/assets/img/444.jpg",
        precio: 10000000
          },
-        
+
 
   ];
 
